@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
 
 # Search String History (newest to oldest):
 
@@ -20,13 +21,30 @@
 # Registers:
 
 # File marks:
-'0  14  0  ~/siva.sh
+'0  6  0  ~/siva/file.sh
+'1  1  23  ~/siva/file.sh
+'2  14  0  ~/siva.sh
 
 # Jumplist (newest first):
+-'  6  0  ~/siva/file.sh
+-'  1  1  ~/siva/file.sh
+-'  14  0  ~/siva.sh
+-'  1  0  ~/siva.sh
+-'  14  0  ~/siva.sh
+-'  1  0  ~/siva.sh
+-'  14  0  ~/siva.sh
+-'  1  0  ~/siva.sh
 -'  14  0  ~/siva.sh
 -'  1  0  ~/siva.sh
 
 # History of marks within files (newest to oldest):
+
+> ~/siva/file.sh
+	"	6	0
+	^	6	0
+	.	5	0
+	+	1	11
+	+	5	0
 
 > ~/siva.sh
 	"	14	0
